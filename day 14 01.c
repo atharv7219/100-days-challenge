@@ -14,5 +14,5 @@ int main()
             sum=sum+i;
         }
     }
-    printf("Sum is: %d \n",sum);
+    printf("Sum od odd numbers till n is: %d \n",sum);
 }
